@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Khalil Manns"
+
+[author]
+name = "Khalil Manns"
+headline = "Father, Tech Journeyman, Nittany Lion"
+bio = "We can keep this short and let the content speak for itself!"
+links = [
+  { linkedin = "https://www.linkedin.com/in/khalilmanns/" }
+]
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"

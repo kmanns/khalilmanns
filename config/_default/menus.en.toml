@@ -1,0 +1,31 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Resume."
+pageRef = "resume"
+identifier = "CtGQhDj8RK"
+weight = 1
+
+[[main]]
+name = "Posts."
+pageRef = "posts"
+identifier = "CfGQhDj8RW"
+weight = 2
+
+[[main]]
+name = "Github"
+pre = "github"
+url = "https://github.com/kmanns"
+identifier = "2S3xINvKML"
+weight = 4
+
+[[main]]
+name = "LinkedIn"
+pre = "linkedin"
+url = "https://www.linkedin.com/in/khalilmanns/"
+identifier = "0gbLDhlV8k"
+weight = 3
+
+[[footer]]
+none = "none"
