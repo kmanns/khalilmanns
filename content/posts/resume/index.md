@@ -25,4 +25,8 @@ I received the Series 7 certification. This was quite the achievement, since I d
 </ul>
 {{< /timelineItem >}}
 
+{{< timelineItem icon="fork" header="RJMetrics" badge="2017-2018" subheader="Get more from you data" >}}
+I took a chance and left the finance world for the startup world.
+{{< /timelineItem >}}
+
 {{< /timeline >}}
