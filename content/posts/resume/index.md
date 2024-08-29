@@ -29,4 +29,8 @@ I received the Series 7 certification. This was quite the achievement, since I d
 I took a chance and left the finance world for the startup world.
 {{< /timelineItem >}}
 
+{{< timelineItem icon="fork" header="Magento" badge="2018" subheader="eCommerce" >}}
+We were acquired, which CHANGED EVERYTHING.
+{{< /timelineItem >}}
+
 {{< /timeline >}}
