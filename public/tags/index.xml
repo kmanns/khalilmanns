@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Khalil Manns</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://khalilmanns.com/tags/</link>
     <description>Recent content in Tags on Khalil Manns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Khalil Manns</copyright>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://khalilmanns.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/tags/resume/</link>
+      <link>https://khalilmanns.com/tags/resume/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/resume/</guid>
+      <guid>https://khalilmanns.com/tags/resume/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/tags/first-post/</link>
+      <link>https://khalilmanns.com/tags/first-post/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/first-post/</guid>
+      <guid>https://khalilmanns.com/tags/first-post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>State of the Union</title>
-      <link>http://localhost:1313/tags/state-of-the-union/</link>
+      <link>https://khalilmanns.com/tags/state-of-the-union/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/state-of-the-union/</guid>
+      <guid>https://khalilmanns.com/tags/state-of-the-union/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
+      <link>https://khalilmanns.com/tags/tag/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tag/</guid>
+      <guid>https://khalilmanns.com/tags/tag/</guid>
       <description></description>
       
     </item>
