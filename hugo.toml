@@ -1,4 +1,7 @@
 baseURL = 'https://khalilmanns.com/'
+[module]
+  [[module.imports]]
+    path = "github.com/nunocoracao/blowfish"
 theme = "blowfish"
 languageCode = 'en-us'
 title = 'Khalil Manns'
