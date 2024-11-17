@@ -1,16 +1,15 @@
-baseURL: "https://khalilmanns.com/"
+baseURL: "https://khalilmanns.com/"  # Your custom domain
 languageCode: "en-us"
 title: "Khalil Manns"
 theme: "blowfish"
 
+# Build settings for GitHub Pages
+publishDir: "public"
+canonifyURLs: true
+
 params:
-  # Theme color scheme: automatic, light, dark
   colorScheme: automatic
-  
-  # Date format
   dateFormat: "Jan 2, 2006"
-  
-  # Header configuration
   header:
     layout: basic
     showTitle: true
