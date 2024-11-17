@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on Khalil Manns</title>
-    <link>http://localhost:1313/tags/tag/</link>
+    <link>https://khalilmanns.com/tags/tag/</link>
     <description>Recent content in Tag on Khalil Manns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://khalilmanns.com/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>new-hotness</title>
-      <link>http://localhost:1313/posts/new-hotness/</link>
+      <link>https://khalilmanns.com/posts/new-hotness/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/new-hotness/</guid>
+      <guid>https://khalilmanns.com/posts/new-hotness/</guid>
       <description>This is a test of my blogging capabilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/new-hotness/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://khalilmanns.com/posts/new-hotness/featured.png" />
     </item>
     
   </channel>
