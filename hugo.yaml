@@ -2,12 +2,6 @@ baseURL: "https://khalilmanns.com"
 languageCode: "en-us"
 title: "Khalil Manns"
 
-# Enable Hugo modules
-module:
-  imports:
-    - path: github.com/nunocoracao/blowfish
-      disable: false
-
 # Theme-specific parameters
 params:
   # Theme color scheme: automatic, light, dark
