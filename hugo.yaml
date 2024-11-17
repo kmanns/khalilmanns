@@ -1,0 +1,16 @@
+baseURL: "https://khalilmanns.com/"
+languageCode: "en-us"
+title: "Khalil Manns"
+theme: "blowfish"
+
+params:
+  # Theme color scheme: automatic, light, dark
+  colorScheme: automatic
+  
+  # Date format
+  dateFormat: "Jan 2, 2006"
+  
+  # Header configuration
+  header:
+    layout: basic
+    showTitle: true

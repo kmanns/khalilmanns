@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Khalil Manns</title>
-    <link>https://khalilmanns.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Khalil Manns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://khalilmanns.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>https://khalilmanns.com/posts/resume/</link>
+      <link>http://localhost:1313/posts/resume/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://khalilmanns.com/posts/resume/</guid>
+      <guid>http://localhost:1313/posts/resume/</guid>
       <description>Khalil is Born The 80&amp;#39;s Episode IV: A New Hope Born in Charleston, SC.</description>
       
     </item>
     
     <item>
       <title>The Real First Post</title>
-      <link>https://khalilmanns.com/posts/the-real-first-post/</link>
+      <link>http://localhost:1313/posts/the-real-first-post/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://khalilmanns.com/posts/the-real-first-post/</guid>
+      <guid>http://localhost:1313/posts/the-real-first-post/</guid>
       <description>This is a test of my blogging capabilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://khalilmanns.com/posts/the-real-first-post/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-real-first-post/featured.png" />
     </item>
     
     <item>
       <title>new-hotness</title>
-      <link>https://khalilmanns.com/posts/new-hotness/</link>
+      <link>http://localhost:1313/posts/new-hotness/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://khalilmanns.com/posts/new-hotness/</guid>
+      <guid>http://localhost:1313/posts/new-hotness/</guid>
       <description>This is a test of my blogging capabilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://khalilmanns.com/posts/new-hotness/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/new-hotness/featured.png" />
     </item>
     
   </channel>
