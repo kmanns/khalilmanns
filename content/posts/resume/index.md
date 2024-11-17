@@ -17,20 +17,19 @@ Liberal Arts focus, but I always loved the technology world, even during those y
 {{< /timelineItem >}}
 
 {{< timelineItem icon="lightbulb" header="Vanguard" badge="2011 - 2017" subheader="Passive investing for the win" >}}
-I received the Series 7 certification. This was quite the achievement, since I didn't have a business background. 
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
+I received the Series 7 certification. This was quite the achievement for me, since I didn't have a business background. 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="fork" header="RJMetrics" badge="2017-2018" subheader="Get more from you data" >}}
+{{< timelineItem icon="fork" header="RJMetrics" badge="2017-2018" subheader="Get more from your data" >}}
 I took a chance and left the finance world for the startup world.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="fork" header="Magento" badge="2018" subheader="eCommerce" >}}
 We were acquired, which CHANGED EVERYTHING.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="Adobe" badge="Present" subheader="eCommerce" >}}
+I'm currently a pre-sales Solutions Consultant, working on getting businesses to understand that Adobe Commerce is the bee's knees.
 {{< /timelineItem >}}
 
 {{< /timeline >}}
