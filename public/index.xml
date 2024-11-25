@@ -14,7 +14,7 @@
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/11-23-24/</guid>
-      <description>Consider This Version 1.</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/11-23-24/featured.png" />
     </item>
     
@@ -24,7 +24,7 @@
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/here-we-go/</guid>
-      <description>Here We Go # Finally, I&amp;rsquo;ve got this thing up and running.</description>
+      <description></description>
       
     </item>
     
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/resume/</guid>
-      <description>Khalil is Born The 80&amp;#39;s Episode IV: A New Hope Born in Charleston, SC.</description>
+      <description></description>
       
     </item>
     
@@ -44,7 +44,7 @@
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/the-real-first-post/</guid>
-      <description>This is a test of my blogging capabilities.</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-real-first-post/featured.png" />
     </item>
     
@@ -54,7 +54,7 @@
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/new-hotness/</guid>
-      <description>This is a test of my blogging capabilities.</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/new-hotness/featured.png" />
     </item>
     

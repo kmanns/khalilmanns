@@ -3,7 +3,7 @@ none = "none"
 
 [[main]]
 name = "Resume."
-pageRef = "resume"
+pageRef = "posts/resume"
 identifier = "CtGQhDj8RK"
 weight = 1
 

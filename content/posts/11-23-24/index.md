@@ -12,8 +12,8 @@ So my main goal was to get this up and running, and I've done that. Now it will 
 This will also serve as an active learning experience for me. I must admit, I had no real tie to Hugo, and simply selected it after a little research. I may work on another site under a different platform (Astro). 
 
 ## To Do for Version 1.1
-* Fix the Resume link at the top of the page
+~~* Fix the Resume link at the top of the page~~
 * "Recent" section doesn't appear the way it should. No actual Recent link appears.
 * Get a Bluesky link added.
 
-That's start!
+That's a start!
