@@ -14,6 +14,7 @@ This will also serve as an active learning experience for me. I must admit, I ha
 ## To Do for Version 1.1
 ~~* Fix the Resume link at the top of the page~~
 * "Recent" section doesn't appear the way it should. No actual Recent link appears.
-* Get a Bluesky link added.
+
+~~* Get a Bluesky link added.~~
 
 That's a start!
